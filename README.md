@@ -2,4 +2,5 @@ Tài liệu này là một Báo cáo Phân tích Dashboard Power BI toàn diện
 
 
 
-![Uploading image.png…]()
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/2070bee4-4219-4bba-9d2f-50438b71c836" />
+
