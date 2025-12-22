@@ -4,3 +4,11 @@ Tài liệu này là một Báo cáo Phân tích Dashboard Power BI toàn diện
 
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/2070bee4-4219-4bba-9d2f-50438b71c836" />
 
+Dasboard : 
+<img width="1375" height="783" alt="image" src="https://github.com/user-attachments/assets/8747d3d4-61be-4ac0-a3bb-fc2c26be079a" />
+<img width="1381" height="789" alt="image" src="https://github.com/user-attachments/assets/a9a9b3d6-37e8-4d95-8f5d-d5312efaef99" />
+<img width="1384" height="797" alt="image" src="https://github.com/user-attachments/assets/30d06889-582a-4d0a-95e1-73a384ecda57" />
+
+
+
+
